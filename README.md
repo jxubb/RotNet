@@ -38,3 +38,8 @@ The application is used to recognize human orientation (from 0, 90, 180 and 270 
 180 degree             |  270 degree
 :-------------------------:|:-------------------------:
 ![](https://github.com/jxubb/Automatic-Human-Orientation-Recognition-with-Detectron2/blob/master/images/180_degrees.jpg) |  ![](https://github.com/jxubb/Automatic-Human-Orientation-Recognition-with-Detectron2/blob/master/images/270_degrees.jpg)
+
+
+## Demo
+
+![detectron2 demo](https://github.com/jxubb/Automatic-Human-Orientation-Recognition-with-Detectron2/blob/master/images/demo.gif)
